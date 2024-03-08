@@ -4,7 +4,7 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter basename='/testing'>
+    <BrowserRouter basename='/youtube_clone'>
         <App />
     </BrowserRouter>
 );
